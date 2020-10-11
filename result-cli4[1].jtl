@@ -1,0 +1,2704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4245" it="0" lt="4243" ct="3979" ts="1602151146477" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="" by="99" sby="521" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--6gmQcnqRR-37TdII85rl34QIP_TK0hqV&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--6gmQcnqRR-37TdII85rl34QIP_TK0hqV&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--6gmQcnqRR-37TdII85rl34QIP_TK0hqV--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="4862" it="0" lt="4862" ct="4527" ts="1602151145933" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="" by="99" sby="553" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--7yQ0-fl3Xc3qZpVpCX4KQjL-Y8b01qFyjcA6MA1Z&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--7yQ0-fl3Xc3qZpVpCX4KQjL-Y8b01qFyjcA6MA1Z&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--7yQ0-fl3Xc3qZpVpCX4KQjL-Y8b01qFyjcA6MA1Z--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="5704" it="0" lt="5704" ct="5371" ts="1602151145087" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="" by="99" sby="529" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--Jdm7XgI0nYIt9MzGH_-6kd8Uer9PKv68Yr&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--Jdm7XgI0nYIt9MzGH_-6kd8Uer9PKv68Yr&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--Jdm7XgI0nYIt9MzGH_-6kd8Uer9PKv68Yr--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="6050" it="0" lt="6050" ct="5719" ts="1602151144737" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="" by="99" sby="517" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--emq0fl9XKYRmYtzXTseeaNWFQVMLBpC&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--emq0fl9XKYRmYtzXTseeaNWFQVMLBpC&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--emq0fl9XKYRmYtzXTseeaNWFQVMLBpC--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="4361" it="0" lt="4361" ct="4046" ts="1602151146425" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="" by="99" sby="545" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--SOcq60SAW75J2K1oGSopE5Iw_-GqcjNyNoJcO5&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--SOcq60SAW75J2K1oGSopE5Iw_-GqcjNyNoJcO5&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--SOcq60SAW75J2K1oGSopE5Iw_-GqcjNyNoJcO5--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="4536" it="0" lt="4536" ct="4213" ts="1602151146247" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="" by="99" sby="533" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--KiHWi1GKxwQoJBaWgbMCS8YDCYRpI0NgdCx&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--KiHWi1GKxwQoJBaWgbMCS8YDCYRpI0NgdCx&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--KiHWi1GKxwQoJBaWgbMCS8YDCYRpI0NgdCx--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="4953" it="0" lt="4953" ct="4628" ts="1602151145828" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="" by="99" sby="529" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--vE06Q2nC_UnLw1Zii9sRgw5IYGymQTWWSj&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--vE06Q2nC_UnLw1Zii9sRgw5IYGymQTWWSj&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--vE06Q2nC_UnLw1Zii9sRgw5IYGymQTWWSj--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="5120" it="0" lt="5120" ct="4803" ts="1602151145661" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="" by="99" sby="541" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--rmO0PK0VrFYl_GfFtCpNRMzsEAlxmZ686LlFM&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--rmO0PK0VrFYl_GfFtCpNRMzsEAlxmZ686LlFM&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--rmO0PK0VrFYl_GfFtCpNRMzsEAlxmZ686LlFM--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="6386" it="0" lt="6385" ct="6120" ts="1602151144335" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="" by="99" sby="541" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--CJMduZ671jRJWZcmDOw7H6BfVtHbrxI8VGhdC&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--CJMduZ671jRJWZcmDOw7H6BfVtHbrxI8VGhdC&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--CJMduZ671jRJWZcmDOw7H6BfVtHbrxI8VGhdC--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="6230" it="0" lt="6228" ct="5969" ts="1602151144492" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="" by="99" sby="541" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--8OUjNEDtpOUt5FBWGMICgkIkTr76qDd-tqjkO&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--8OUjNEDtpOUt5FBWGMICgkIkTr76qDd-tqjkO&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--8OUjNEDtpOUt5FBWGMICgkIkTr76qDd-tqjkO--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="818" it="0" lt="818" ct="719" ts="1602151150913" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-9" dt="text" by="1404" sby="320" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: yQtyK99J6tXJlkCwFqxRi7B2IZCIlte53wTT2DLO84ZwhBPmhT1ENw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--qb7rZY6pj-gawgEPyDdDXrCEFxnseKCI4--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="835" it="0" lt="835" ct="737" ts="1602151150915" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-1" dt="text" by="1404" sby="324" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: q87RGMCncilRS1Y92sOjPt541uN0VvFuoRsr8kbqKrv5aWwujckdjg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--8w_VL-9B8ettUHD_Vd61aJYd-y6kfJgXeHe--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="239" it="0" lt="238" ct="140" ts="1602151151510" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-6" dt="text" by="1404" sby="328" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: od_xeW4eX2U8tOgp30PbHiVZHS8qGOqv_NY5c_hR9HW86QH0ZbC2Dw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--aCGVXFc6zp85qPv60f_yLI0NUbv070DuOFowB--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="830" it="0" lt="830" ct="719" ts="1602151150917" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-7" dt="text" by="1404" sby="326" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: 0XAiw9YwSEWf54bqOUxWTupWmRK3oU3P1UHcGHq1MAvypAPHRCZWjA==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--P7AKGNlxTiT6mLBpb_0NnmyU9nKgSeT9uucX--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="816" it="0" lt="816" ct="714" ts="1602151150920" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-4" dt="text" by="1404" sby="314" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: aS9BAV2KOgP80BeglBukgp88eFhtzrxC52FiVpCPLOSADVS1fWUx4A==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--ubCS6ofmHaHr0lJkbq2GbYvF9pQDgZ--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="115" ts="1602151151520" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-5" dt="text" by="1404" sby="324" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: 86qf0ImBFAN_hD8GNH5zQxHB3GRhpqODuqnfVEJHklgfD_fXruc6hg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--izsOWt0X621GvUb4vjYSdTnteP4Y0e3DvNP--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="209" it="0" lt="209" ct="107" ts="1602151151526" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-2" dt="text" by="1404" sby="318" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: h7MG9PmIM4xlUIsYa92M3_EYq45uaFXPUB6bHKKVZ5lmoynhduqnuA==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--eLW3OEVXvjEvQUrSAEX-HzT7Rs82Fi-V--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="850" it="0" lt="850" ct="745" ts="1602151150914" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-10" dt="text" by="1404" sby="328" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: 89s7RmSBNaTbIMd9mFdBcMw6pREfwV24HKTnoh7X-_MVTKb06gaS6w==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--vfRKOO4zzryMupbA7dsfwYjg_m61jBM0mDBng--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="848" it="0" lt="848" ct="740" ts="1602151150911" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-8" dt="text" by="1404" sby="320" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: IWoE3rpAlcxi43wY4f13NLfHp3ub2uzxAtp1C7e0rux3mv4UMGP0Xw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--8WyTBS6NoB8ib90y4NullvA27C1mTchx6--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="255" it="0" lt="254" ct="153" ts="1602151151504" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-3" dt="text" by="1404" sby="334" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: 7Se-wrUYkGaXIVv8msAwMg-mH2gLffk3JA3nNGwZD9Ab579EXjsBgQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--zMKZAMzYUUi4DUBKzfSlanCmPJoOk3JWOYo1Qmbf--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="113" ct="0" ts="1602151151766" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="" by="99" sby="529" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--fWaG6QiFEov2VjbpyvZj4A6IhUnHBRO8lY&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--fWaG6QiFEov2VjbpyvZj4A6IhUnHBRO8lY&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--fWaG6QiFEov2VjbpyvZj4A6IhUnHBRO8lY--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1602151151770" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="" by="99" sby="533" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--dd0VthCmDK_Qgf2_bOcap0rtnemOBOctIWr&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--dd0VthCmDK_Qgf2_bOcap0rtnemOBOctIWr&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--dd0VthCmDK_Qgf2_bOcap0rtnemOBOctIWr--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="121" ct="0" ts="1602151151772" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="" by="99" sby="533" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--TxS-gxNFiQhhOON4rtMOY5VyxH58ZilO1Vr&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--TxS-gxNFiQhhOON4rtMOY5VyxH58ZilO1Vr&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--TxS-gxNFiQhhOON4rtMOY5VyxH58ZilO1Vr--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1602151151778" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="" by="99" sby="513" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--EAncEjdBbqyalHPmRbgq0p8jCcO4LE&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--EAncEjdBbqyalHPmRbgq0p8jCcO4LE&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--EAncEjdBbqyalHPmRbgq0p8jCcO4LE--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1602151151795" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="" by="99" sby="525" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--XKXh9Zx-URpFizBWB9sYLIVCcMcZyF0Hi&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--XKXh9Zx-URpFizBWB9sYLIVCcMcZyF0Hi&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--XKXh9Zx-URpFizBWB9sYLIVCcMcZyF0Hi--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="118" it="0" lt="118" ct="0" ts="1602151151796" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="" by="99" sby="545" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--M7BaJ_jWYd60QeLE8svcb0cdfytd2gy1qt4vSD&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--M7BaJ_jWYd60QeLE8svcb0cdfytd2gy1qt4vSD&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--M7BaJ_jWYd60QeLE8svcb0cdfytd2gy1qt4vSD--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1602151151805" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="" by="99" sby="537" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--zwcSsyHUYO5hk9dLxU8cXbPGjaaZxShalzHr&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--zwcSsyHUYO5hk9dLxU8cXbPGjaaZxShalzHr&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--zwcSsyHUYO5hk9dLxU8cXbPGjaaZxShalzHr--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="135" it="0" lt="135" ct="0" ts="1602151151783" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="" by="99" sby="521" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--_PleG0jnqOwYycl84_CxRJSYkpNVFtzk&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--_PleG0jnqOwYycl84_CxRJSYkpNVFtzk&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--_PleG0jnqOwYycl84_CxRJSYkpNVFtzk--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="118" it="0" lt="118" ct="0" ts="1602151151798" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="" by="99" sby="517" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--xrhQGslxHF-r5_OF1_YD2ihTpEp5EOY&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--xrhQGslxHF-r5_OF1_YD2ihTpEp5EOY&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--xrhQGslxHF-r5_OF1_YD2ihTpEp5EOY--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="118" it="0" lt="118" ct="0" ts="1602151151800" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="" by="99" sby="525" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--reMLF8Q7BMnHE4PlhyVvJ0ewveK8xDYZn&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--reMLF8Q7BMnHE4PlhyVvJ0ewveK8xDYZn&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--reMLF8Q7BMnHE4PlhyVvJ0ewveK8xDYZn--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1602151151885" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-4" dt="text" by="1404" sby="330" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: UgIKJgWCyKiXHVuQBJYKg3I0X2L2imGmlK7Pft2WxU1x6MOXXcrV9w==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--e_DtSjg36--7YalAiK4SJQBiHA6Z6fxNUV1YhX--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1602151151890" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-7" dt="text" by="1404" sby="330" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: RFsyjWi5MQO-2-CrKhNKW_6hxT9eyMHFNNpLddtVvmOe6nPEwsl2TA==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--2CJSaNJctuO8obe3szeaGNG6JEFDI5FvlIec0c--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1602151151894" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-6" dt="text" by="1404" sby="330" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: HuvX7Xk5MmPixPeUWZOW3x5UrLzSz9GQ5wd502Xaei1M2QHnIHjzkQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--a0X-o3lDDaSzx9OwvM17XnyLZQisWJ9k99n15Z--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="126" it="0" lt="126" ct="0" ts="1602151151897" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-1" dt="text" by="1404" sby="316" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: Ewkgrlh1t5HnLHZ6QxZxnm_zrLDWNxMEZw39UG0I6ybHENfOAPkzBQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--6bNaBoScBGSk_fO6W70VD3DNPqaLiIv--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1602151151907" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-9" dt="text" by="1404" sby="316" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: x1ClaX4JDyz59hEJ9xSF22Dq0bfpjXkNibTtX0cXK148L_3SXs4EdQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--AfRX7g3u72I5dJnHwAjI5kEeXkTuzVG--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1602151151938" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-8" dt="text" by="1404" sby="332" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: aHpDhgxJpj6f0P5uCxwvdO1NWbs7ceQOoNfvR3E1iuWIiunnStzAWA==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--LwYv47v5Da1LBDSXXjXsRWSY5QQqjAHihon3tvk--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="112" ct="0" ts="1602151151935" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-10" dt="text" by="1404" sby="328" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: gPHdCA3RShTQ40Koz0dABTPdxfehOmX1PjDQjLxE0moxB6nJqFrGfw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--nj9a0m98CznSQlt-jWwAcRhEoSFfGqAxlB76b--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1602151151931" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-5" dt="text" by="1404" sby="322" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: kWMdVnP6e88ZIY_R3Zq5FyMlhiheXjXDYnPABvOKb-0h__hhc7v53Q==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--boAQyfzsLGuAI170tF979oN503Nn4k2Rjc--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1602151151929" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-3" dt="text" by="1404" sby="334" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: w16VmiWLzZ4jXWfg19mOPYg1eIY-2HxX-p8SY4KUFb0LbgsUc_wZ5A==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--5G648cMTclkkp2CzuOGD_7FRHSGdXgT7NsHTHfuu--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="125" it="0" lt="125" ct="0" ts="1602151151921" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-2" dt="text" by="1404" sby="316" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: l_afVlCbMfoPSzNE4jVKCcYymnxKq4_BF04pkexmBT2laWiEdRuM2g==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--0zQUHvupvrHJVH014187xOUJFx7P0lV--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="114" it="0" lt="114" ct="0" ts="1602151151987" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="" by="99" sby="529" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--P8R1EfIS1hBAdi4Z1H9Phg-EcOKZIfYr7z&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--P8R1EfIS1hBAdi4Z1H9Phg-EcOKZIfYr7z&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--P8R1EfIS1hBAdi4Z1H9Phg-EcOKZIfYr7z--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="138" it="0" lt="138" ct="0" ts="1602151151993" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="" by="99" sby="525" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--EnunKKRCNdi1KuUyos_rZLkBQU8uARTT3&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--EnunKKRCNdi1KuUyos_rZLkBQU8uARTT3&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--EnunKKRCNdi1KuUyos_rZLkBQU8uARTT3--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="157" ct="0" ts="1602151151996" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="" by="99" sby="533" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--TgdsvklpuCg6aveS5GaZPY_pHPKYl3Zf7JK&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--TgdsvklpuCg6aveS5GaZPY_pHPKYl3Zf7JK&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--TgdsvklpuCg6aveS5GaZPY_pHPKYl3Zf7JK--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="107" ct="0" ts="1602151152054" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="" by="99" sby="541" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--2hu59l9UrAfUbDz_MohE9XzVnmfEBfdUOWa5E&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--2hu59l9UrAfUbDz_MohE9XzVnmfEBfdUOWa5E&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--2hu59l9UrAfUbDz_MohE9XzVnmfEBfdUOWa5E--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="112" ct="0" ts="1602151152051" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="" by="99" sby="525" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--FGZgeEhk9LiaFqu5x4G3Kzu671hHdoqQ_&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--FGZgeEhk9LiaFqu5x4G3Kzu671hHdoqQ_&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--FGZgeEhk9LiaFqu5x4G3Kzu671hHdoqQ_--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1602151152057" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="" by="99" sby="521" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--gE_Rfflayp46siI8q6aPdDmRUrBamel-&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--gE_Rfflayp46siI8q6aPdDmRUrBamel-&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--gE_Rfflayp46siI8q6aPdDmRUrBamel---&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1602151152056" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="" by="99" sby="549" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--PWp_i6GYPxUfAaiJyQ-KrlWPYMxw116vaaLdvZg&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--PWp_i6GYPxUfAaiJyQ-KrlWPYMxw116vaaLdvZg&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--PWp_i6GYPxUfAaiJyQ-KrlWPYMxw116vaaLdvZg--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="114" it="0" lt="114" ct="0" ts="1602151152070" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="" by="99" sby="521" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--BLw3-IAGiCPhSBBFKF1794gM5BZ1Gtc9&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--BLw3-IAGiCPhSBBFKF1794gM5BZ1Gtc9&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--BLw3-IAGiCPhSBBFKF1794gM5BZ1Gtc9--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="124" it="0" lt="124" ct="0" ts="1602151152066" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="" by="99" sby="537" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--0ynXK3BWAc0c2c6j0HRnBOVGt6xtCfsZWZNd&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--0ynXK3BWAc0c2c6j0HRnBOVGt6xtCfsZWZNd&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--0ynXK3BWAc0c2c6j0HRnBOVGt6xtCfsZWZNd--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="124" it="0" lt="124" ct="0" ts="1602151152067" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="" by="99" sby="521" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--_FOhLtUzMZDnJRabxIh23YuzSf3scuVR&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--_FOhLtUzMZDnJRabxIh23YuzSf3scuVR&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--_FOhLtUzMZDnJRabxIh23YuzSf3scuVR--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="106" it="0" lt="106" ct="0" ts="1602151152101" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-4" dt="text" by="1404" sby="322" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: FLZ3FDNjkMvnDKPMFD11zWmFvpluYw7ibLsNQxc2JnLsOx42HVUqHg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--4ZeOSyZO8DqTQFzMGQnBxZs9XwPYFvZam9--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1602151152133" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-7" dt="text" by="1404" sby="326" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: EA284pCcawZslkZajeI8NjmrTtkHu3m8aPjKGHnFtmrdRPLTybjqqg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--9sTrbA7a0Or7xKFgpxWKN8ObxXUa0qU0w8Nv--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="101" ct="0" ts="1602151152155" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-6" dt="text" by="1404" sby="328" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: jGpUtda2fR2TnBYWc0Sfx62IoUFERzZnEmZgIWHnGa9VDpyBufVEBg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--wIw1QWactxtYffw0ISw3dwmrpBA4Zq_xjEcSv--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="98" ct="0" ts="1602151152164" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-1" dt="text" by="1404" sby="324" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: WUAWrKhyPF3wbTLICGZPj7WejDZfWu3zzg3acqOo6pcHX00bXyO9oQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--qTYSWVXafB1oUyKV_ksjM5DUEq_MpJmOSe---&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1602151152162" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-9" dt="text" by="1404" sby="318" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: P9rZzcF2IbCPlzxa_gMe7CIJYWLvsF-i2JcyTXZXW4bsI6c5nVAZZg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--pXXyWFJMrRX76ZUKPLjgz5oyh8VjRPeD--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="114" it="0" lt="114" ct="0" ts="1602151152168" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-10" dt="text" by="1404" sby="320" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: UYY70NfPwiNUCAIBUR-GmblQ2peSc7OUuNtVJZOA2iCvkMW3SZXCZg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--9Pd2T89KZ8T6JSDOxiLXjxRmwYj5SmGei--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="121" ct="0" ts="1602151152173" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-8" dt="text" by="1404" sby="322" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: KfX9-nkhes1hE9xbu14TJwLZdsyvBeoTu2DJQzjcWPSW3ciNRs-0vw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--8tOHWN7gjr62mDFhnA0xm7_uFrLJeozBho--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1602151152189" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-2" dt="text" by="1404" sby="320" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: qAkOgzc2yBZe5OsCGmfbnJAIGXI5swxjbF8lnzhoVAeJhxmn4GuDWQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--Bwkr3NedS6uMBjon5ufSDIxfNv34-K0Nv--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="106" ct="0" ts="1602151152192" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-3" dt="text" by="1404" sby="326" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: -6zgv7NA63INKTx7NT0josPibX8-VCbdt4KIwQNDSvKufl3Ruj8XHg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--LzYen2K1wJHbuknjRop8pSgANGlx4iTO1EIa--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="240" it="0" lt="240" ct="0" ts="1602151152194" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-5" dt="text" by="1404" sby="324" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: cyasVlcN_O_vBLFi15sRHVpqhk4FYphaGy2WKi5ReNFLpMrC-BsbJg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--wV-0bDT9_CfnR40aqpX4l4zT1iotzShtAho--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="174" ct="0" ts="1602151152266" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="" by="99" sby="513" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--oRfL-knxiE7b9fgvpz79KAWkFtUJ0U&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--oRfL-knxiE7b9fgvpz79KAWkFtUJ0U&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--oRfL-knxiE7b9fgvpz79KAWkFtUJ0U--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="174" ct="0" ts="1602151152269" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="" by="99" sby="529" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--5Vbbv9LzwZQ0HU0R8v2avXHyhjFFxTODhG&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--5Vbbv9LzwZQ0HU0R8v2avXHyhjFFxTODhG&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--5Vbbv9LzwZQ0HU0R8v2avXHyhjFFxTODhG--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="159" ct="0" ts="1602151152292" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="" by="99" sby="537" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--mJ9OVMT3mS0hjepTgZFaB7DnQO_1LuVf1ipg&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--mJ9OVMT3mS0hjepTgZFaB7DnQO_1LuVf1ipg&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--mJ9OVMT3mS0hjepTgZFaB7DnQO_1LuVf1ipg--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="245" it="0" lt="245" ct="0" ts="1602151152209" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="" by="99" sby="549" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--zWmS9WzsXJV2oKqxGKWDbc_LH7ShWYEyQxekQvn&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--zWmS9WzsXJV2oKqxGKWDbc_LH7ShWYEyQxekQvn&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--zWmS9WzsXJV2oKqxGKWDbc_LH7ShWYEyQxekQvn--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="223" it="0" lt="223" ct="0" ts="1602151152234" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="" by="99" sby="533" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--RTEiOuaWkLOUWkoUkE4j7gxZ84Jb7ZrJRsY&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--RTEiOuaWkLOUWkoUkE4j7gxZ84Jb7ZrJRsY&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--RTEiOuaWkLOUWkoUkE4j7gxZ84Jb7ZrJRsY--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="111" it="0" lt="111" ct="0" ts="1602151152447" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-1" dt="text" by="1404" sby="334" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: lsZsHm6bhrG07gXuLJwE26tBDqHiLZsbx8pSz1lkAqVGHKuRu1I5yw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--zYKaOL3_J3IuWv7G8vy77Mc5BdQPhbMz_SI90WWQ--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="270" it="0" lt="270" ct="0" ts="1602151152295" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="" by="99" sby="521" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--p_6ZrjySDt0kyreeAf4N8yxA2HhKehoT&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--p_6ZrjySDt0kyreeAf4N8yxA2HhKehoT&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--p_6ZrjySDt0kyreeAf4N8yxA2HhKehoT--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ct="0" ts="1602151152449" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="" by="99" sby="529" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--_Ph_RE3oaVceKKS7kMNlh8_OSuu-IZCkdi&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--_Ph_RE3oaVceKKS7kMNlh8_OSuu-IZCkdi&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--_Ph_RE3oaVceKKS7kMNlh8_OSuu-IZCkdi--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="131" it="0" lt="130" ct="0" ts="1602151152441" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-9" dt="text" by="1404" sby="328" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: IZK91zDnFDGezssAOdMq7wH5F2YkuyHfgyDdAUgQrktzEosxQXruSg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--88gfqp-wo3-GXgJUGN2oFph7eE_9gPU95DwNr--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1602151152463" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-10" dt="text" by="1404" sby="320" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: s8nm6K9pyKYw4xEjDSkcZ7dWAdEZ9v543l5V-X3p3zdPZH97mhe90g==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--0Lt6KA8pDRG-ShTTSmdxs_zsvkuwiZmix--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="161" it="0" lt="161" ct="0" ts="1602151152432" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="" by="99" sby="525" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--pzDH91iH-aw8YqbzaAdEB2LTc9j9qjB0U&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--pzDH91iH-aw8YqbzaAdEB2LTc9j9qjB0U&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--pzDH91iH-aw8YqbzaAdEB2LTc9j9qjB0U--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1602151152438" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="" by="99" sby="545" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--HeOH2fWD8qXIiAROak68DY0QhFBp1C5FntixUb&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--HeOH2fWD8qXIiAROak68DY0QhFBp1C5FntixUb&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--HeOH2fWD8qXIiAROak68DY0QhFBp1C5FntixUb--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="115" it="0" lt="115" ct="0" ts="1602151152488" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-4" dt="text" by="1404" sby="332" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: cpWvufO9qONsj3vG-J-OMNHH4H9GCljndMJO4ZPZR8A97tBqspQ35A==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--N0YA-Nkj_Q7dlF_UTPssxQlTIrDg0IDeKQvbEti--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="351" it="0" lt="351" ct="0" ts="1602151152257" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="" by="99" sby="513" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--sVhjLY2cJ0V7BgF1itYKFONTuo8wDE&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--sVhjLY2cJ0V7BgF1itYKFONTuo8wDE&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--sVhjLY2cJ0V7BgF1itYKFONTuo8wDE--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="114" it="0" lt="114" ct="0" ts="1602151152490" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-7" dt="text" by="1404" sby="334" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: sYDZzSCQvx3ldZZr5M0G7iUXfUnOoWE3yLXo6MsXRJ3yLSzoF9Jrzw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--ROmiVJknjFpUA1IXDzkSE2HzlAPqaXDUPgSXbOCh--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="100" ct="0" ts="1602151152570" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-2" dt="text" by="1404" sby="334" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: JwdBRT1LWgD4XbNEk3a89JjIZjTNa2_GetjdcZ-0VN7j3cGaDXLkkQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--UCc0G8qvmTe_4ZTYQEAEfDoykHSB3nPHqNnaWDJc--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="126" it="0" lt="126" ct="0" ts="1602151152562" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="" by="99" sby="549" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--ubzzBdPU1d-2fclMdQJgUEY2rsgAucJjWij5Y-_&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--ubzzBdPU1d-2fclMdQJgUEY2rsgAucJjWij5Y-_&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--ubzzBdPU1d-2fclMdQJgUEY2rsgAucJjWij5Y-_--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1602151152587" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-8" dt="text" by="1404" sby="318" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: B3s7QrR89GgxV474_1MWHrkV54PAyMFhuLmc_Apik2Dyg1NF8urx2w==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">---GlmOO_j5wbLedinchJrmO3fvbgFSWYZ--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1602151152594" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-3" dt="text" by="1404" sby="314" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: DTQbesMq5mOGbsKt7bgJhq6BHKUCkuV1xhVpktBWJotM4EspnJGYUg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--0HuMsTzomfKKi4KWhoIPbxZTryB6by--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="126" it="0" lt="126" ct="0" ts="1602151152579" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="" by="99" sby="513" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--59StlWFWhrByW3SNGUT7fqujCOrN0J&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--59StlWFWhrByW3SNGUT7fqujCOrN0J&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--59StlWFWhrByW3SNGUT7fqujCOrN0J--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1602151152573" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="" by="99" sby="549" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--ExcWkmGu1xCz9XzAdtu0L9RRlm0QHb3JhV18KdV&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--ExcWkmGu1xCz9XzAdtu0L9RRlm0QHb3JhV18KdV&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--ExcWkmGu1xCz9XzAdtu0L9RRlm0QHb3JhV18KdV--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="114" it="0" lt="114" ct="0" ts="1602151152598" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-5" dt="text" by="1404" sby="332" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: qtkLweH1xtIxPd2LpGUbZ2msb_zFXMrEsDtseh5anmBWiJJe2KZbAQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--Kg8K_4YOPQI7UskZnu51ejplBwz8GV6yJXHq-C8--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="131" it="0" lt="131" ct="0" ts="1602151152612" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-6" dt="text" by="1404" sby="330" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: 0Q-wHl7Md_I-RNwanyvjws2ztucg71yTCqolKAQb8DVDTfL5WQRxDA==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--qLEEZ9UPzSulbhykPmgS46Qt8DLoNvmNj12gpm--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="135" it="0" lt="135" ct="0" ts="1602151152614" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="" by="99" sby="525" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--nILhT9AT6YxrdbWOx1767smODrOTeHg80&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--nILhT9AT6YxrdbWOx1767smODrOTeHg80&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--nILhT9AT6YxrdbWOx1767smODrOTeHg80--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="145" it="0" lt="145" ct="0" ts="1602151152606" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="" by="99" sby="545" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--ZLCna0vShJpS9U5aiqyVKejOVXyqJ-nhIXDg7_&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--ZLCna0vShJpS9U5aiqyVKejOVXyqJ-nhIXDg7_&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--ZLCna0vShJpS9U5aiqyVKejOVXyqJ-nhIXDg7_--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1602151152690" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-1" dt="text" by="1404" sby="322" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: PKS7pUWfrQ5yQOvnKMIsbCwEOYPfsSX8VrpFBfKUflTUTN9gyRBrbQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--J6kTsfEGuDVD0GQUD_efGwGZlbQ_Bm70Ia--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="126" it="0" lt="126" ct="0" ts="1602151152672" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="" by="99" sby="533" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--0T_c2-s8R4euV5-DrYUUTbg76Cq9dv094p8&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--0T_c2-s8R4euV5-DrYUUTbg76Cq9dv094p8&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--0T_c2-s8R4euV5-DrYUUTbg76Cq9dv094p8--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="101" ct="0" ts="1602151152706" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-10" dt="text" by="1404" sby="316" ng="10" na="10">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: xkLa67R2bVG2snKrOmBZwxSPQbOXMI1Au30TOu02_IoadwEiZnDxSw==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--luZrjGepq7JXqhsJrCQit9VGNt4N0y4--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1602151152709" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-9" dt="text" by="1404" sby="316" ng="9" na="9">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: tT86Og61hJU4PqjSAz1IS-p007QorJEYJcfx6onu41GPAaG48pkQJA==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">---Fcdts0XGWNVVN3-sSqfzlZIpN75FOA--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1602151152696" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="" by="99" sby="513" ng="7" na="7">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--cvTBBkVafD_Gz58h_2TyrLLlz4viJD&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--cvTBBkVafD_Gz58h_2TyrLLlz4viJD&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--cvTBBkVafD_Gz58h_2TyrLLlz4viJD--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="128" it="0" lt="128" ct="0" ts="1602151152700" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="" by="99" sby="553" ng="7" na="7">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--uYmSaoChxeSdCAEyG-C0iUpzE4MfEgdcIGfaHMxE&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--uYmSaoChxeSdCAEyG-C0iUpzE4MfEgdcIGfaHMxE&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--uYmSaoChxeSdCAEyG-C0iUpzE4MfEgdcIGfaHMxE--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="107" ct="0" ts="1602151152750" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-7" dt="text" by="1404" sby="334" ng="7" na="7">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: -VFjTSJCBuP6QLQviQmpxiF4_NWek7P-TMNH9H13kjqpkKk146k-lg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--beMuZpDvyujNigpFBE2tYDUJes0gsQRP1MK_Y0mi--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="115" it="0" lt="115" ct="0" ts="1602151152744" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="" by="99" sby="537" ng="6" na="6">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">---txTjJc9aKT8qFJRtLejo7qnsPti_nBMiimV&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+---txTjJc9aKT8qFJRtLejo7qnsPti_nBMiimV&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+---txTjJc9aKT8qFJRtLejo7qnsPti_nBMiimV--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="98" ct="0" ts="1602151152773" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-4" dt="text" by="1404" sby="330" ng="6" na="6">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: dJpfn61BTgo-NFLjfRW2LOQFS6WlwDB09kSB3IhRqfUT8z2Gd7GMDQ==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--Vu-2ZdF4uB8UzhIuXhebPp7Ch4tX7FIavRzlOV--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="98" it="0" lt="98" ct="0" ts="1602151152798" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-2" dt="text" by="1404" sby="326" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: Pzhjl6qK5NoNotLOeifv2sE_e36Se9IQzLsZ8CGsVhkGVILooEUgYA==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--UUVYNeeoqbOobPQWxLnrXaNpSrreCVTmo9mR--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="0" ts="1602151152735" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="" by="99" sby="533" ng="4" na="4">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--_IXQZ_ULPH_fWjr35x0hIdcAxbiRMVKmkVs&#xd;
+Content-Disposition: form-data; name=&quot;user1&quot;&#xd;
+&#xd;
+password1&#xd;
+--_IXQZ_ULPH_fWjr35x0hIdcAxbiRMVKmkVs&#xd;
+Content-Disposition: form-data; name=&quot;user2&quot;&#xd;
+&#xd;
+password2&#xd;
+--_IXQZ_ULPH_fWjr35x0hIdcAxbiRMVKmkVs--&#xd;
+</queryString>
+  <java.net.URL>https://master-auth.sporttotal.co/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="107" ct="0" ts="1602151152815" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-8" dt="text" by="1404" sby="328" ng="4" na="4">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: vMmPJ8WhdZ0-IQvvfhNzCrYLV4z9IWolS94UgyBz3WMTaXNhe5KHyg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--DPztKCLlxETEqEwZaZJ5z_eG2DXW9oZRHeTtb--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1602151152828" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-3" dt="text" by="1404" sby="324" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: 7A4jC3yCzcubuyic7OPwB_CPEIYhwMlACLYTXaFSj5XtMjiD2PqX8g==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--h_Na-NUoVbXQspWAfJs7yPYhAGnofIUrOsE--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="107" ct="0" ts="1602151152860" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-6" dt="text" by="1404" sby="334" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: 113yA_7WNVdSawa592AE5C_In74JccyLl-qAk3O7f0wnWQY8akaG3g==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--ccWFfYsrJ3RLjiLJxlzqtBJh_4_0eB6rPZWV4Q7q--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1602151152906" s="false" lb="HTTP Request" rc="403" rm="Forbidden" tn="Thread Group 1-5" dt="text" by="1404" sby="330" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: headers expected to contain /200/</failureMessage>
+  </assertionResult>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;TITLE&gt;ERROR: The request could not be satisfied&lt;/TITLE&gt;
+&lt;/HEAD&gt;&lt;BODY&gt;
+&lt;H1&gt;403 ERROR&lt;/H1&gt;
+&lt;H2&gt;The request could not be satisfied.&lt;/H2&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+This distribution is not configured to allow the HTTP request method that was used for this request. The distribution supports only cachable requests.
+We can&apos;t connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+&lt;BR clear=&quot;all&quot;&gt;
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+&lt;BR clear=&quot;all&quot;&gt;
+&lt;HR noshade size=&quot;1px&quot;&gt;
+&lt;PRE&gt;
+Generated by cloudfront (CloudFront)
+Request ID: GnZQk_LRDhv0S6UXL5dCBbUxZ1u3f6thsDJA56Hyy99K4SAks9f4Bg==
+&lt;/PRE&gt;
+&lt;ADDRESS&gt;
+&lt;/ADDRESS&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">--WDu22jLdNaIu7d6LzvW6ySYzQsA7SORY-4yQW4--&#xd;
+</queryString>
+  <java.net.URL>http://sporttotal.tv/register?client=app&amp;redirect=https%3A%2F%2Fwww.sporttotal.tv%2Fprofile</java.net.URL>
+</httpSample>
+
+</testResults>
